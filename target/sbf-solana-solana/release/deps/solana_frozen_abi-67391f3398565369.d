@@ -1,0 +1,10 @@
+/mnt/d/100xdevsprac2/solana-contract/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-67391f3398565369.rmeta: /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/mnt/d/100xdevsprac2/solana-contract/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-67391f3398565369.rlib: /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/mnt/d/100xdevsprac2/solana-contract/target/sbf-solana-solana/release/deps/solana_frozen_abi-67391f3398565369.d: /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs:
+/home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs:
+/home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs:
+/home/mani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs:
